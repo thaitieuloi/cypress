@@ -1,0 +1,11 @@
+{
+    "env":{
+        "DB": {
+            "user": "postgres",
+            "host": "localhost",
+            "database": "demo",
+            "password": "123456",
+            "port": 5432
+        }
+      }
+}
